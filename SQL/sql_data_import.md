@@ -8,7 +8,7 @@ IMPORT CSV 'file_path' INTO table_name;
 ```
 This will import all the columns from a `csv` file into a table. Then you can move forward with your analysis! 
 
-Not sure how to move forward? Try taking a look at these [basics](https://github.gatech.edu/pages/bmclain3/Health_Analytics/SQL/sql_basics) or this [example](https://github.gatech.edu/pages/bmclain3/Health_Analytics/SQL/sql_covid_ex)!
+Not sure how to move forward? Try taking a look at these [basics](https://bjm009.github.io/HealthAnalyticsToolkit/SQL/sql_basics) or this [example](https://bjm009.github.io/HealthAnalyticsToolkit/SQL/sql_covid_ex)!
 
 ## TXT
 ```sql
