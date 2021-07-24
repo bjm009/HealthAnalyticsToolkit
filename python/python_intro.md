@@ -3,14 +3,14 @@
 According to their website, Python is an *"interpreted, object-oriented, high-level programming language with dynamic semantics"*
 
 ### Tutorials to help you get started with Python! 
-  * [Python Style Guide](https://github.gatech.edu/pages/bmclain3/Health_Analytics/python/styleguide)
-  * [Getting started with DataFrames](https://github.gatech.edu/pages/bmclain3/Health_Analytics/python/dataframes)
+  * [Python Style Guide](https://bjm009.github.io/HealthAnalyticsToolkit/python/styleguide)
+  * [Getting started with DataFrames](https://bjm009.github.io/HealthAnalyticsToolkit/python/dataframes)
   
 ### Sometimes the best way to learn is through examples! Below you will find Python being used for exploration of relevant healthcare problems:     
-  * [Predictive Analysis](https://github.gatech.edu/pages/bmclain3/Health_Analytics/python/python_predictive_analysis)
+  * [Predictive Analysis](https://bjm009.github.io/HealthAnalyticsToolkit/python/python_predictive_analysis)
      * Utilizing Python for **machine learning** problems
      * This tutorial explores a number of libraries including **pandas, numpy, sklearn, and matplotlib** as well as the creation, training,   and testing of a model to predict stroke! 
-  * [Covid Analysis](https://github.gatech.edu/pages/bmclain3/Health_Analytics/python/python_covid)
+  * [Covid Analysis](https://bjm009.github.io/HealthAnalyticsToolkit/python/python_covid)
       * Seee how Python can help you visualize and explore policies associated with COVID-19
  
 ### Recommended External Resources: 
