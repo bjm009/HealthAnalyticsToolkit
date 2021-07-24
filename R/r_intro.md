@@ -6,15 +6,15 @@ To download R, navigate to the [R-Project website](https://www.r-project.org/) a
 
 ## New to R? Check out these tutorials to get started! 
 
-* [R Basics](https://github.gatech.edu/pages/bmclain3/Health_Analytics/R/r_basics)
+* [R Basics](https://bjm009.github.io/HealthAnalyticsToolkit/R/r_basics)
   * Assignment Operator
   * Basic Arithmetic
   * Matrices and Random Samples
   * Documentation Help with ? 
   * Working with strings
-* [Importing and Analyzing Data from File](https://github.gatech.edu/pages/bmclain3/Health_Analytics/R/r_analysis_example)
+* [Importing and Analyzing Data from File](https://bjm009.github.io/HealthAnalyticsToolkit/R/r_analysis_example)
   * Working with data.frame to investigate COVID data loaded from a file
-* [Visualizations](https://github.gatech.edu/pages/bmclain3/Health_Analytics/R/visualizations)
+* [Visualizations](https://bjm009.github.io/HealthAnalyticsToolkit/R/visualizations)
   * Scatter
   * Line 
   * Barplot
