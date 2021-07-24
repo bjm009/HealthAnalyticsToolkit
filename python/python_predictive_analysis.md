@@ -34,7 +34,7 @@ from sklearn.tree import plot_tree
 import matplotlib.pyplot as plt
 import seaborn as sns
 ```
-* [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) is a library that provides high-performance, easy-to-use data structures and data analysis tools. Importantly, by importing pandas we are able to utilize dataframes. [Check out this page to learn more about dataframes!](https://github.gatech.edu/pages/bmclain3/Health_Analytics/python/dataframes).
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) is a library that provides high-performance, easy-to-use data structures and data analysis tools. Importantly, by importing pandas we are able to utilize dataframes. [Check out this page to learn more about dataframes!](https://bjm009.github.io/HealthAnalyticsToolkit/python/dataframes).
 * [numpy](https://numpy.org/) is considered to be a fundamental package for scientific computing with python, bringing the computational power of languages like C and Fortran. Among other things, NumPy offers powerful n-dimensional arrays, numerical computing tools, and allows for interoperability. 
 * [sklearn](https://scikit-learn.org/stable/) is for Machine Learning in Python
     * [sklearn.tree](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.tree) includes decision tree-based models for classificaiton and regression
