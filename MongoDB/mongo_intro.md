@@ -33,7 +33,7 @@ The [MongoDB Website](https://www.mongodb.com/try/download) has a section to loo
 I utilize the MongoDB Community Server, which when Downloaded provides the option for you to download MongoDB Compass. MongoDB Compass community allows you to connect to your clusters from your PC with a GUI. 
 
 ## Connecting to Cluster
-View this [tutorial](https://github.gatech.edu/pages/bmclain3/Health_Analytics/MongoDB/mongo_cluster) to see how to create and connect to a cluster from the MongoDB Compass GUI. 
+View this [tutorial](https://bjm009.github.io/HealthAnalyticsToolkit/MongoDB/mongo_cluster) to see how to create and connect to a cluster from the MongoDB Compass GUI. 
 
 ## Create Database
 In MongoDB Compass, you create a database and add its first collection at the same time. To do this:
@@ -51,4 +51,4 @@ When importing, the data, it is a CSV document. Once inserted, each of the rows 
 ![png](../images/compass_json.PNG)
 
 ## MongoDB has a unique set of vocabulary compared to other common languages. Check out the information below to learn more about it! 
-  * [MongoDB Vocabulary](https://github.gatech.edu/pages/bmclain3/Health_Analytics/MongoDB/mongo_vocab)
+  * [MongoDB Vocabulary](https://bjm009.github.io/HealthAnalyticsToolkit/MongoDB/mongo_vocab)
