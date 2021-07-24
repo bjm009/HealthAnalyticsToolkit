@@ -6,7 +6,7 @@ Happy Exploring!
 
 ## To start your journey, select from the languages below: 
 
-* [Python](https://github.gatech.edu/pages/bmclain3/Health_Analytics/python/python_intro)
+* [Python](https://github.edu/pages/bjm009/Health_Analytics/python/python_intro)
    
   
 * [R](https://github.gatech.edu/pages/bmclain3/Health_Analytics/R/r_intro)
