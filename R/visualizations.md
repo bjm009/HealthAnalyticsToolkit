@@ -2,7 +2,7 @@
 
 There are a number of graphical visualizations you can create with R. Let us explore some of them! 
 
-We are going to be using the same dataset from this [tutorial](https://github.gatech.edu/pages/bmclain3/Health_Analytics/R/r_analysis_example), starting with "mydata" available to us. 
+We are going to be using the same dataset from this [tutorial](https://bjm009.github.io/HealthAnalyticsToolkit/R/r_analysis_example), starting with "mydata" available to us. 
 
 ## Watch this video to see the basics in action!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vgBzwNseziA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
